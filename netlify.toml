@@ -1,0 +1,7 @@
+[functions]
+directory = "netlify/functions"
+
+[[redirects]]
+  from = "/"
+  to = "/lionor2.html"
+  status = 200
